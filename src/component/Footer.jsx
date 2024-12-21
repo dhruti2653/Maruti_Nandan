@@ -84,10 +84,10 @@ const Footer = () => {
           <ul className="flex flex-col space-y-8 ">
             <li><a href="/land" className="hover:text-gray-400">Land Survey</a></li>
             <li><a href="/road" className="hover:text-gray-400">Road Survey</a></li>
-            <li><a href="/boundary" className="hover:text-gray-400">Boundary Survey</a></li>
+            <li><a href="/transmission" className="hover:text-gray-400">Transmission Survey</a></li>
           </ul>
         </div>
-
+        
         {/* Locate Us Section */}
         <div className="flex flex-col items-start">
           <h2 className="text-2xl font-medium mb-4">Locate Us</h2>

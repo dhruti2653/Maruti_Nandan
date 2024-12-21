@@ -95,7 +95,7 @@ const Header = () => {
       <div className="flex items-center">
         <button
           onClick={handleContactClick}
-          className="hidden md:flex items-center px-6 py-2 lg:px-8 lg:py-3 rounded-full bg-[#F76B00] text-white text-sm lg:text-lg font-medium hover:bg-blue-700 space-x-2"
+          className="hidden md:flex items-center px-6 py-2 lg:px-8 lg:py-3 rounded-full bg-[#F76B00] text-white text-sm lg:text-lg font-medium hover:bg-orange-700 space-x-2"
         >
           Contact Us <span className="ml-2 text-xl font-medium">&gt;</span>
         </button>
