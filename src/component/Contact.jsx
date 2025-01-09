@@ -75,6 +75,7 @@ const ContactCards = () => {
               id="name"
               className="w-full p-3 border border-gray-300 rounded-md"
               placeholder="Your Name"
+              required
             />
           </div>
           <div className="mb-4">
@@ -84,6 +85,7 @@ const ContactCards = () => {
               id="email"
               className="w-full p-3 border border-gray-300 rounded-md"
               placeholder="Your Email"
+              required
             />
           </div>
           <div className="mb-4">
@@ -93,6 +95,7 @@ const ContactCards = () => {
               rows="4"
               className="w-full p-3 border border-gray-300 rounded-md"
               placeholder="Your Message"
+              required
             ></textarea>
           </div>
           <button
