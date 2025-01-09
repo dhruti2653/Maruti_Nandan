@@ -89,7 +89,7 @@ const ConsultationSection = () => {
           </form>
 
           {/* Optionally show a success message after form submission */}
-          {isSubmitted && <p className="text-green-500 mt-4">Form submitted successfully!</p>}
+          {isSubmitted && <p className="text-green-500 mt-4">Form submitted successfully !!</p>}
         </div>
       </div>
     </div>
